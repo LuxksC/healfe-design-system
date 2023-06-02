@@ -14,5 +14,13 @@ public extension DS {
         public static var mainColor: Color {
             return Color.green
         }
+        
+        public static var profileColor: Color {
+            return Color.gray
+        }
+        
+        public static var waterColor: Color {
+            return Color.blue
+        }
     }
 }
